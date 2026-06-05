@@ -1,1 +1,1 @@
-**The implementation code will be released after the conference.**
+**The code will be released after the conference.**
